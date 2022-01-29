@@ -2,7 +2,7 @@
 
 # Outlay
 
-The Outlay is a Money Management Application developed by a little boy study in 8th standard.
+The Outlay is a Money Management Application developed by a boy study in 8th standard. An application to easily and securely record your income and expenses.
 
 ## Features
 
@@ -10,6 +10,7 @@ The Outlay is a Money Management Application developed by a little boy study in 
 2) Easy to use.
 3) Don't want to download.
 4) It works on all devices.
+5) More Secure.
 
 ## How to Start?
 
